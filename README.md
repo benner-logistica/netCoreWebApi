@@ -1,4 +1,4 @@
-# Desafio Técnico Júnior - .NET Core
+# Desafio Técnico - .NET Core
 
 ## Objetivo
 Criar uma API simples de gerenciamento de contatos com ASP.NET Core.
