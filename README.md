@@ -35,7 +35,7 @@ public class Contact
 
 ## 🔐 Requisitos Técnicos do Back-End
 * ASP.NET Core (preferencialmente versão 8 ou superior)
-* Entity Framework Core (banco SQLite ou em memória)
+* Entity Framework Core (banco SQLite)
 * Seguir padrão REST
 * Código organizado (separar controller, model e context)
 * Permitir testes via Swagger
